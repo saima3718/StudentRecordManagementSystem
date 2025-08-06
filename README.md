@@ -1,4 +1,4 @@
-Student Record Management System
+# StudentRecordManagementSystem
 
 This is a *Java-based CLI (Command Line Interface)* project to manage student records.  
 It allows users to *Add, View, Update, and Delete* student data using simple console input.
